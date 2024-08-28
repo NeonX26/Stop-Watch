@@ -16,11 +16,11 @@ Created a Stopwatch using HTML, CSS, and JavaScript.
 - Timers: Regular intervals for updating time display.
 - Formatting: User-friendly time representation.
 
-Explore the live demo [Click here...](https://neonx26.github.io/PRODIGY_WD_02/)
+Explore the live demo [Click here...](https://neonx26.github.io/Stop-Watch/)
 
 ## Getting Started
 
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/NeonX26/PRODIGY_WD_02.git
+   git clone https://github.com/NeonX26/Stop-Watch.git
